@@ -1,0 +1,12 @@
+{
+  "name": "typescript-06",
+  "version": "1.0.0",
+  "description": "Exercício 06 do curso de TypeScript",
+  "main": "./src/index.ts",
+  "scripts": {
+    "dev": "npx ts-node ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
